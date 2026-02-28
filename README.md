@@ -32,3 +32,6 @@ Develop SQL-based analytics to eliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
+
+## About Me
+Hi! I'm **Michael Serrano**. I'm an Electronics Engineering graduate starting my journey in Data Engineering. 
